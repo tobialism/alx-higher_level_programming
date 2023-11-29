@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Emuchay Nwachi
+# Author - Oluwatobi Adeyeye
 
 i = 0
 for c in range(ord('z'), ord('a') - 1, -1):
